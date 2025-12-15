@@ -1,8 +1,8 @@
-<Title>Playtest Schedule</>
-</n><Title>WELCOME !</>
+<TitleSingleGame>Playtest Schedule</>
+</n><TitleSingleGame>WELCOME !</>
 </n>Thank you for being one of our first testers! 
-Our server is open daily from <Title>3 PM to 5 PM EST</>.
-You can access <Title>ALL playable characters</> during the test! Feel free to try everything out!
+Our server is open daily from <TitleSingleGame>3 PM to 5 PM EST</>.
+You can access <TitleSingleGame>ALL playable characters</> during the test! Feel free to try everything out!
 Join our Discord (Court of Awe)  to share feedback, team up, and earn exclusive rewards!
 We'll open 24-hour access at a later stage, STAY TUNED!
-</n><Title>PRESS ANY BUTTON TO PROCEED</>
+</n><TitleSingleGame>PRESS ANY BUTTON TO PROCEED</>
