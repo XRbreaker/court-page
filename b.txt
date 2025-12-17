@@ -1,8 +1,10 @@
-<TitleSingleGame>Playtest Schedule</>
-</n><TitleSingleGame>WELCOME !</>
-</n>Thank you for being one of our first testers! 
-Our server is open daily from <TitleSingleGame>3 PM to 5 PM EST</>.
-You can access <TitleSingleGame>ALL playable characters</> during the test! Feel free to try everything out!
-Join our Discord (Court of Awe)  to share feedback, team up, and earn exclusive rewards!
-We'll open 24-hour access at a later stage, STAY TUNED!
-</n><TitleSingleGame>PRESS ANY BUTTON TO PROCEED</>
+<TitleSingleGame>CALLING ALL LEGAL (AND ILLEGAL) MINDS</>
+</n>Come hang out with us on Discord!</>
+</n><TitleSingleGame>https://discord.gg/coa</>
+</n>
+</n>Why Join?
+</n>- Weekly playtests + exclusive rewards 
+</n>- Everyone can join the Content Creator Program!
+</n>- Awsome owner & Awsome staff 
+</n>- Awesome community
+</n>- We listen to YOU!
