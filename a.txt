@@ -1,10 +1,8 @@
-<Title>Playtest Schedule</>
-</n><Title>HAPPY NEW YEAR!</>
-</n>We hit 1,500 testers in just 2 weeks! <Title>THANK YOU!</>
-</n>Christmas gift to every tester who joined the chaos:
-- Invite your friends before the New Year to get limited testers perk (6 days left)
-- <Title>LIMITED ACCESS PLAYERS = KEEP CURRENT SKINS FOREVER </>
-   Yes, every skin. Permanently. <Title>NO TAKE BACK</>
-- Come hang out with us in Discord and get your OG Role
-   https://discord.gg/coa
+<Title>Server Update Notification</>
+</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.</>
+<Title>Maintenance Schedule:</>
+</n>-EST: 3:00 AM – 5:00 AM, Sun, Jan 4
+- PST: 0:00 AM – 2:00 AM, Sun, Jan 4
+- GMT: 8:00 AM - 10:00 AM, Sun, Jan 4
+</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
 </n><Title>PRESS ANY BUTTON TO PROCEED</>
