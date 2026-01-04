@@ -1,7 +1,11 @@
-<Title>Server Update Notification</>
-</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
-<Title>Maintenance Schedule:</>
-</n>-EST: 3:00 AM – 5:00 AM, Sun, Jan 4
-- PST: 0:00 AM – 2:00 AM, Sun, Jan 4
-- GMT: 8:00 AM - 10:00 AM, Sun, Jan 4
-</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
+<TitleSingleGame>CALLING ALL LEGAL (AND ILLEGAL) MINDS</> 
+Come hang out with us on Discord! 
+<TitleSingleGame>https://discord.gg/coa</>
+
+<BoldSingeGame>FREE REDEEM CODE FOR NEW TESTERS!</> 
+Use redeem code <BoldSingeGame>260111</> to unlock 12 outfits! 
+This code will expire on Jan 11th at 11:59 PM EST. Spread the word to your friends ASAP!
+
+<TitleSingleGame>Known Issue Notification</> 
+If your redeemed outfits appear locked, try restarting the game. 
+If the issue persists, please join our Discord to contact us.
