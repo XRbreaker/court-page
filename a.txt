@@ -1,5 +1,5 @@
 <Title>Server Update Notification</>
-</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.</>
+</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
 <Title>Maintenance Schedule:</>
 </n>-EST: 3:00 AM – 5:00 AM, Sun, Jan 4
 - PST: 0:00 AM – 2:00 AM, Sun, Jan 4
