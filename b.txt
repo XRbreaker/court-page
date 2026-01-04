@@ -1,10 +1,7 @@
-<TitleSingleGame>CALLING ALL LEGAL (AND ILLEGAL) MINDS</>
-</n>Come hang out with us on Discord!
-</n><TitleSingleGame>https://discord.gg/coa</>
-
-</n>Why Join?
-- Weekly playtests + exclusive rewards 
-- Everyone can join the Content Creator Program!
-- Awsome owner & Awsome staff 
-- Awesome community
-- We listen to YOU!
+<Title>Server Update Notification</>
+</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
+<Title>Maintenance Schedule:</>
+</n>-EST: 3:00 AM – 5:00 AM, Sun, Jan 4
+- PST: 0:00 AM – 2:00 AM, Sun, Jan 4
+- GMT: 8:00 AM - 10:00 AM, Sun, Jan 4
+</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
