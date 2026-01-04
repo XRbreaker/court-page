@@ -1,11 +1,10 @@
 <TitleSingleGame>CALLING ALL LEGAL (AND ILLEGAL) MINDS</> 
 Come hang out with us on Discord! 
 <TitleSingleGame>https://discord.gg/coa</>
-
 <BoldSingeGame>FREE REDEEM CODE FOR NEW TESTERS!</> 
 Use redeem code <BoldSingeGame>260111</> to unlock 12 outfits! 
 This code will expire on Jan 11th at 11:59 PM EST. Spread the word to your friends ASAP!
-
+(<Bold>Testers who joined before January 4th will receive the rewards automatically—no code needed!</>)
 <TitleSingleGame>Known Issue Notification</> 
 If your redeemed outfits appear locked, try restarting the game. 
 If the issue persists, please join our Discord to contact us.
