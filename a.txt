@@ -1,9 +1,7 @@
-<Title>FREE REDEEM CODE FOR NEW TESTERS!</>
-
-USE SUPER OG CODE <BoldSingeGame>260111</> to <BoldSingeGame>unlock 12 characters!!!!</> (Including: Rice Cooker, Shark, Dinosaur, Cheese, Pumpkin Person, and the Tuxedo pack!)
-<Bold>Testers who joined before January 4th will receive the rewards automatically—no code needed!</>
-
-LIMITED-TIME, UNLIMITED AMOUNT, TELL EVERYONE!
-
-Join our discord for more fun!
-<TitleSingleGame>Discord.gg/coa</> 
+<Title>Server Update Notification</>
+</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
+<Title>Maintenance Schedule:</>
+</n>-EST: 5:00 AM – 7:00 AM, Sun, Jan 4
+- PST: 2:00 AM – 4:00 AM, Sun, Jan 4
+- GMT: 10:00 AM - 12:00 AM, Sun, Jan 4
+</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
