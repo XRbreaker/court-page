@@ -1,7 +1,7 @@
 <Title>Server Update Notification</>
 </n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
 <Title>Maintenance Schedule:</>
-</n>-EST: 5:00 AM – 7:00 AM, Sun, Jan 5
-- PST: 2:00 AM – 4:00 AM, Sun, Jan 5
-- GMT: 10:00 AM - 12:00 AM, Sun, Jan 5
+</n>-EST: 7:00 AM – 9:00 AM, Sun, Jan 5
+- PST: 4:00 AM – 6:00 AM, Sun, Jan 5
+- GMT: 12:00 AM - 14:00 AM, Sun, Jan 5
 </n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
