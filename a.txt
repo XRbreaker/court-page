@@ -2,3 +2,11 @@
 </n><Title>WELCOME !</>
 </n>Thank you for being one of our testers! 
 Feel free to join our Discord (https://discord.gg/coa)  to share feedback, team up, and earn exclusive rewards!
+
+<Title>NOTICE</>
+Dear Players,
+Our server provider will be performing a scheduled online maintenance on 
+</n><Title>January 20 at 1:00 AM EST (6:00 AM GMT)</>. 
+The maintenance is expected to last for approximately 1 hour.
+During this period, you may experience temporary login issues or connection instability. We apologize for any inconvenience this may cause and appreciate your patience.
+Thank you for your continued support!
