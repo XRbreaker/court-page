@@ -1,8 +1,4 @@
-<Title>Server Update Notification</>
-</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
-<Title>Maintenance Schedule:</>
-</n>-EST: 2:30 AM – 4:30 AM, Mon, Jan 19
-- PST: 11:30 PM Sun, Jan 11 - 1:30 AM, Mon, Jan 19
-- GMT: 7:30 AM - 9:30 AM, Mon, Jan 19
-</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
-</n><Title>PRESS ANY BUTTON TO PROCEED</>
+<Title>Playtest Schedule</>
+</n><Title>WELCOME !</>
+</n>Thank you for being one of our testers! 
+Feel free to join our Discord (https://discord.gg/coa)  to share feedback, team up, and earn exclusive rewards!
