@@ -1,7 +1,8 @@
-<Title>Playtest Schedule</>
-Dear Players,
-Our server provider will be performing a scheduled online maintenance on 
-<Title>January 20 at 1:00 AM EST (6:00 AM GMT)</>. 
-The maintenance is expected to last for approximately 1 hour.
-During this period, you may experience temporary login issues or connection instability. We apologize for any inconvenience this may cause and appreciate your patience.
-Thank you for your continued support!
+<Title>[Notice] Server Maintenance</>
+
+Maintenance Time: Jan 29, 2026, 5:00 AM (EST) 
+Estimated Duration: 30 minutes
+
+Please note that the game will be unavailable during this period. After the maintenance, please download the latest update to resume play.
+
+See you back in the game soon!
