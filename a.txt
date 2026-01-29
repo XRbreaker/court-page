@@ -1,8 +1,9 @@
-<Title>Server Update Notification</>
-</n>We will be performing a scheduled maintenance to deploy a series of updates to the live servers. To minimize disruption, this is scheduled during our lowest peak hours.
-<Title>Maintenance Schedule:</>
-</n>-EST: 5:30 AM – 6:00 AM, Jan 29
-- PST: 2:30 AM – 3:00 AM, Jan 29
-- GMT: 10:00 AM - 10:30 AM, Jan 29
-</n>The servers will be unavailable during this period. We aim to complete the debug process and restore services as quickly as possible. Thank you for your patience and ongoing support!
-</n><Title>PRESS ANY BUTTON TO PROCEED</>
+<Title>HUGE UPDATE ALERT</>
+
+It's a new game now!
+
+1. Whole new lobby scene themed in space.
+2. NO WEAPONS in the courtroom
+3. NEW "SHOOTOUT ZONE"
+4. GET RICH & GET LIKED: Explore the unlimited login and polularity system rewards
+5. Meta Friend Invites: You can now send teleport invitations to your friends via Quest Message.
