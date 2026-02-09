@@ -1,12 +1,6 @@
-<Title>[Notice] Server Maintenance</>
+<TitleSingleGame>CALLING ALL LEGAL (AND ILLEGAL) MINDS</> 
 
-Maintenance Time: 
-
-Feb 9, 2026, 3:00 AM EST
-Feb 9, 2026, 8:00 AM GMT
-
-Estimated Duration: 30 minutes
-
-Please note that the game will be unavailable during this period. After the maintenance, please download the latest update to resume play.
-
-See you back in the game soon!
+Come hang out with us on Discord! 
+<TitleSingleGame>https://discord.gg/coa</>
+Join us to share feedback, team up, and earn <TitleSingleGame>exclusive rewards</>!
+We'll be full launch in spring 2026, STAY TUNED!
