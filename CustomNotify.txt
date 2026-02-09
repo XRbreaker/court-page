@@ -1,6 +1,10 @@
 <Title>[Notice] Server Maintenance</>
 
-Maintenance Time: Jan 29, 2026, 5:00 AM (EST) 
+Maintenance Time: 
+
+Feb 9, 2026, 3:00 AM EST
+Feb 9, 2026, 8:00 AM GMT
+
 Estimated Duration: 30 minutes
 
 Please note that the game will be unavailable during this period. After the maintenance, please download the latest update to resume play.
