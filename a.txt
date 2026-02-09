@@ -1,12 +1,9 @@
-<Title>[Notice] Server Maintenance</>
+<Title>HUGE UPDATE ALERT</>
 
-Maintenance Time: 
+It's a new game now!
 
-Feb 9, 2026, 3:00 AM EST
-Feb 9, 2026, 8:00 AM GMT
-
-Estimated Duration: 30 minutes
-
-Please note that the game will be unavailable during this period. After the maintenance, please download the latest update to resume play.
-
-See you back in the game soon!
+1. Whole new lobby scene themed in space.
+2. NO WEAPONS in the courtroom
+3. NEW "SHOOTOUT ZONE"
+4. GET RICH & GET LIKED: Explore the unlimited login and polularity system rewards
+5. Meta Friend Invites: You can now send teleport invitations to your friends via Quest Message.
