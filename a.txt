@@ -1,10 +1,10 @@
 <Title>March 5th Update</>
 
-We will be performing a server maintenance update at the following times, expected to last 0.5 hour:
+We will be performing a server maintenance update at the following times, expected to last half an hour:
 
 EST  3:00 AM
 GMT  8:00 AM
 
 Update Content:
 Added several evidence cards to the courtroom
-Fixed some minor bugs
+Fixed some bugs
