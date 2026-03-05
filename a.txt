@@ -1,10 +1,10 @@
-<Title>HUGE UPDATE ALERT</>
+<Title>March 5th Update</>
 
-Due to EOS maintenance, there may be network fluctuations between 07:00 and 10:00 UTC on Mar 5, 2026. 
-If you experience network connectivity issues, please try again later.
+We will be performing a server maintenance update at the following times, expected to last 0.5 hour:
 
-1. Whole new lobby scene themed in space.
-2. NO WEAPONS in the courtroom
-3. NEW "SHOOTOUT ZONE"
-4. GET RICH & GET LIKED: Explore the unlimited login and polularity system rewards
-5. Meta Friend Invites: You can now send teleport invitations to your friends via Quest Message.
+EST  3:00 AM
+GMT  8:00 AM
+
+Update Content:
+Added several evidence cards to the courtroom
+Fixed some minor bugs
