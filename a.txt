@@ -1,6 +1,7 @@
 <Title>HUGE UPDATE ALERT</>
 
-It's a new game now!
+Due to EOS maintenance, there may be network fluctuations between 07:00 and 10:00 UTC on Mar 5, 2026. 
+If you experience network connectivity issues, please try again later.
 
 1. Whole new lobby scene themed in space.
 2. NO WEAPONS in the courtroom
