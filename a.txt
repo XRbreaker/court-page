@@ -1,10 +1,9 @@
-<Title>March 5th Update</>
-
-We will be performing a server maintenance update at the following times, expected to last half an hour:
-
-EST  3:00 AM
-GMT  8:00 AM
+<TitleSingleGame>March 5th Update</> 
 
 Update Content:
 Added several evidence cards to the courtroom
 Fixed some bugs
+
+Come hang out with us on Discord! 
+<TitleSingleGame>https://discord.gg/coa</>
+Join us to share feedback, team up, and earn <TitleSingleGame>exclusive rewards</>!
