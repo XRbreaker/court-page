@@ -1,9 +1,17 @@
 <TitleSingleGame>Early Access Content Update</> 
 
-We will be performing a server maintenance update at the following times, expected to last half an hour:
+Update Content:
+1、Brand New Toys
+Lie Detector: Just say a few words and it'll tell you if someone's lying! (Results may be randomized.)
+Zero Gravity & Heavy Gravity Guns: Get hit and your gravity flips. 
 
-EST  4:00 AM
-GMT  8:00 AM
+2、Brand New Game Scenes
+Spectator zone & brawl mode
+Fight's just begun. Step outside and settle the verdict the old way—with style.
+
+3、Content Optimization
+Tutorials upgraded.More hand-holding, less confusion.
+Login streaks now have actual reasons to exist. More rewards are coming your way!
 
 Come hang out with us on Discord! 
 <TitleSingleGame>https://discord.gg/coa</>
