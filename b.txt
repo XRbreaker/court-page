@@ -1,8 +1,9 @@
-<TitleSingleGame>March 5th Update</> 
+<TitleSingleGame>Early Access Content Update</> 
 
-Update Content:
-Added several evidence cards to the courtroom
-Fixed some bugs
+We will be performing a server maintenance update at the following times, expected to last half an hour:
+
+EST  4:00 AM
+GMT  8:00 AM
 
 Come hang out with us on Discord! 
 <TitleSingleGame>https://discord.gg/coa</>
