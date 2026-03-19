@@ -1,10 +1,11 @@
-<Title>Early Access Content Update</>
+<Title>Early Access Update</>
 
-We will be performing a server maintenance update at the following times, expected to last half an hour:
-
-EST  4:00 AM
-GMT  8:00 AM
+<BoldSingeGame>What's new:</>
+Whole new scene available！
+<Bold>Arena</> with <Bold>NEW GUNS</>!
+New gadgets in court!
+NPCs join the world! Careful with those with guns!
 
 Come hang out with us on Discord! 
-<TitleSingleGame>https://discord.gg/coa</>
-Join us to share feedback, team up, and earn <TitleSingleGame>exclusive rewards</>!
+<Bold>https://discord.gg/coa</>
+Join us to share feedback, team up, and earn <Bold>exclusive rewards</>!
