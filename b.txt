@@ -1,6 +1,6 @@
-<TitleSingleGame>April Update Announcement</> 
+<Title>April 16 Update Announcement</>
 
-We will be performing a server maintenance update at the following times, expected to last half an hour:
+We will be performing a server maintenance update at the following times, expected to last an hour:
 
 EDT  4:00 AM
 GMT  8:00 AM
