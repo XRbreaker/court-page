@@ -1,16 +1,10 @@
-<TitleSingleGame>Early Access Content Update</> 
+<TitleSingleGame>April Update Announcement</> 
 
-Update Content:
-1、Brand New Toys
-Lie Detector and  Zero Gravity & Heavy Gravity Guns
+We will be performing a server maintenance update at the following times, expected to last half an hour:
 
-2、Brand New Game Scenes
-Spectator zone & brawl mode
-
-3、Content Optimization
-Five new skins have been added! 
-Login streaks now have actual reasons to exist. 
+EDT  4:00 AM
+GMT  8:00 AM
 
 <BoldSingeGame>Headline: 1,000 DISCORD MEMBERS REACHED!</>
-Join us <Bold>https://discord.gg/coa</> to 
+Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
 get <Bold>exclusive milestone rewards</>!
