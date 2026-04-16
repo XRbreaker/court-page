@@ -1,11 +1,10 @@
-<Title>Early Access Update</>
+<Title>April Update Announcement</>
 
-<BoldSingeGame>What's new:</>
-Whole new scene available！
-<Bold>Arena</> with <Bold>NEW GUNS</>!
-New gadgets in court!
-NPCs join the world! Careful with those with guns!
+We will be performing a server maintenance update at the following times, expected to last half an hour:
+
+EDT  4:00 AM
+GMT  8:00 AM
 
 <BoldSingeGame>Headline: 1,000 DISCORD MEMBERS REACHED!</>
-Join us <Bold>https://discord.gg/coa</> to 
+Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
 get <Bold>exclusive milestone rewards</>!
