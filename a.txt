@@ -1,4 +1,4 @@
-<TitleSingleGame>April 16 Update Announcement</> 
+<Title>April 16 Update Announcement</>
 
 Update Content:
 1. Court Room List
