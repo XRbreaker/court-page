@@ -1,15 +1,9 @@
-<Title>April 16 Update Announcement</>
+<TitleSingleGame>April 23 Update Announcement</> 
 
-Update Content:
-1. Court Room List
-Now you can see every court room you can join at a glance.
-2. Lawyer's Big Upgrade
-Lawyer's Drawing Board  (Beta)
-3. New Courtroom Props
-Gramophone for Justice，Change the courtroom BGM on the fly.
-Bubble Gun，Who doesn't love bubbles?
-4. There's a Limited-Time Bundle! 80% OFF
-Don't miss it for the world!
+We will be performing a server maintenance update at the following times, expected to last  an hour:
+
+EDT  4:00 AM
+GMT  8:00 AM
 
 <BoldSingeGame>Headline: 1,000 DISCORD MEMBERS REACHED!</>
 Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
