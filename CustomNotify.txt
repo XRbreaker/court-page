@@ -2,10 +2,10 @@
 
 Maintenance Time: 
 
-We will be performing a server maintenance update at the following times, expected to last  an hour:
+We will be performing a server maintenance update at the following times, expected to last an hour:
 
-EDT  4:00 AM
-GMT  8:00 AM
+EDT  4:30 AM
+GMT  8:30 AM
 
 Please note that the game will be unavailable during this period. After the maintenance, please download the latest update to resume play.
 
