@@ -1,13 +1,9 @@
-<Title>April 23 Update Announcement</>
+<Title>May 14 Update Announcement</>
 
-Update Content:
-1. Fully optimized scene layouts
+We will be performing a server maintenance update at the following times, expected to last an hour:
 
-2. Added new evidence cards
-
-3. Refined tutorial content
-
-4. Discord Event: Vote & comment to win a FREE Uni-Chrome skin!
+EDT  4:30 AM
+GMT  8:30 AM
 
 <BoldSingeGame>Headline: 1,000 DISCORD MEMBERS REACHED!</>
 Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
