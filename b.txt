@@ -1,10 +1,11 @@
 <TitleSingleGame>May 14 Update Announcement</> 
 
-We will be performing a server maintenance update at the following times, expected to last  an hour:
+Update Content:
 
-EDT  4:30 AM
-GMT  8:30 AM
+1. Added new evidence cards
 
-<BoldSingeGame>Headline: 1,000 DISCORD MEMBERS REACHED!</>
+<BoldSingeGame>2. Discord Event: Vote & comment to win a FREE Uni-Chrome skin!</>
+
+
 Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
 get <Bold>exclusive milestone rewards</>!
