@@ -1,11 +1,9 @@
-<TitleSingleGame>May 14 Update Announcement</> 
+<TitleSingleGame>May 21 Update Announcement</> 
 
-Update Content:
+We will be performing a server maintenance update at the following times, expected to last an hour:
 
-1. Added new evidence cards
-
-<BoldSingeGame>2. Discord Event: Vote & comment to win a FREE</> 
-<BoldSingeGame>Uni-Chrome skin!</>
+EDT  4:00 AM
+GMT  8:00 AM
 
 
 Join us <Bold>https://discord.gg/DYAUASFUNG</> to 
