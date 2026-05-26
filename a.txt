@@ -1,6 +1,7 @@
 <Title>Server Maintenance Notice</>
 
-To bring you a better gaming experience, Court of Awe will undergo server maintenance on May 26, 2026. The game servers will be temporarily offline for approximately 2 hours.
+To bring you a better gaming experience, Court of Awe will undergo server maintenance on May 26, 2026. 
+The game servers will be temporarily offline for approximately 2 hours.
 
 Maintenance Schedule:
 
