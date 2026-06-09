@@ -1,9 +1,8 @@
 <TitleSingleGame>June 9 Update Announcement</> 
 
-We will be performing a server maintenance update at the following times, expected to last an hour:
+Update Content:
 
-EDT  4:00 AM
-GMT  8:00 AM
+Added new evidence cards
 
 <BoldSingeGame>Join our Discord to claim multiple FREE SKINS</>
 <BoldSingeGame>and dive into new case discussions!</>
