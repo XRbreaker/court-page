@@ -1,10 +1,12 @@
-<TitleSingleGame>June 9 Update Announcement</> 
+<TitleSingleGame>Server Maintenance Notice</> 
 
-Update Content:
+We will be conducting server maintenance on Jun 25, 2026, from 06:00 to 08:00 UTC.
 
-Added new evidence cards
+During this window, you may experience temporary network fluctuations, 
+unexpected disconnections, or login failures. 
 
-<BoldSingeGame>Join our Discord to claim multiple FREE SKINS</>
-<BoldSingeGame>and dive into new case discussions!</>
+If you are unable to enter the game, please wait a moment and try again later.
+
+Thank you for your patience and understanding!
 
 Join us <Bold>https://discord.gg/DYAUASFUNG</> 
