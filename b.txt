@@ -1,6 +1,7 @@
 <TitleSingleGame>Server Maintenance Notice</> 
 
-We will be conducting server maintenance on Jun 25, 2026, from 06:00 to 08:00 UTC.
+We will be conducting server maintenance on Jun 25, 2026,
+from 06:00 to 08:00 UTC.
 
 During this window, you may experience temporary network fluctuations, 
 unexpected disconnections, or login failures. 
