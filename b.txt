@@ -1,12 +1,10 @@
-<TitleSingleGame>Summer Sale 2026 is LIVE!</> 
+<TitleSingleGame>June Update Announcement</> 
 
-Get ready to upgrade your courtroom!
+Update Content:
 
-For a limited time, ALL bundles are on sale.
+Added new evidence cards
 
-Grab your favorite skins before the event ends!
-
-<BoldSingeGame>Event Duration: Jun 26, 2026, 10:00 AM (PST)–</>
-<BoldSingeGame>Jul 5, 2026, 11:59 PM (PST)!</>
+<BoldSingeGame>Join our Discord to claim multiple FREE SKINS</>
+<BoldSingeGame>and dive into new case discussions!</>
 
 Join us <Bold>https://discord.gg/DYAUASFUNG</> 
