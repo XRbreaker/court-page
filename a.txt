@@ -1,8 +1,8 @@
-<Title>Server Maintenance Notice</>
+<Title>June 9 Update Announcement</>
 
-We will be performing a server maintenance update at the following times, expected to last an hour:
+Update Content:
 
-July 21, 2026 at 6:00 AM UTC
+Added new evidence cards
 
 <BoldSingeGame>Join our Discord to claim multiple FREE SKINS and dive into new case discussions!</>
 
